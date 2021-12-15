@@ -1,6 +1,6 @@
 # HackerRank Algorithm Solutions
 Hi folks! Here you can find solutions to algorithm questions. I solved the questions using Kotlin programming language.
-Also, [this is my HackerRank Profile](https://www.hackerrank.com/cim_damla).
+Also, this is my [HackerRank Profile](https://www.hackerrank.com/cim_damla).
 You can write for different solutions. I'm open to ideas!
 
 - A Very Big Sum | [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/damlacim/HackerRankSolutions/blob/master/app/src/main/java/com/example/hackerranksolutions/algorithms/AVeryBigSum.kt)
